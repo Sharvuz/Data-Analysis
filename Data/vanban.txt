@@ -1,0 +1,6 @@
+Phân tích dữ liệu là một quá trình kiểm tra, làm sạch, chuyển đổi và mô
+hình hóa dữ liệu với mục tiêu khám phá thông tin hữu ích, thông báo kết
+luận và hỗ trợ ra quyết định. Phân tích dữ liệu có nhiều khía cạnh và cách
+tiếp cận, bao gồm các kỹ thuật đa dạng dưới nhiều tên khác nhau và được
+sử dụng trong các lĩnh vực kinh doanh, khoa học và khoa học xã hội khác
+nhau.
